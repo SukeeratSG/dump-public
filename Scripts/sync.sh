@@ -7,13 +7,13 @@ read device
 rompath=$PWD
 
 cd ${rompath}/device
-rm -rf xiaomi realme asus google oneplus nokia *common sm* samsung sony motorola meizu lge lg zuk
+rm -rf xiaomi asus
 
 cd ${rompath}/vendor
-rm -rf xiaomi realme asus google oneplus nokia *common sm* samsung sony motorola meizu lge lg zuk
+rm -rf xiaomi asus
 
 cd ${rompath}/kernel 
-rm -rf xiaomi realme asus google oneplus nokia *common sm* samsung sony motorola meizu lge lg zuk
+rm -rf xiaomi asus
 
 cd ${rompath}
 
