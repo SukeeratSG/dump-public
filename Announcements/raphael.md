@@ -1,37 +1,48 @@
-## Corvus Update (08/04/12)
 
-- April patch 
-- Intial Build
-- Ships with PSSG-Perfomance (My new perfomance based kernel).
-- Lot of kernel credits to szradev (AEX DEV)
-- Upstreamed to common 12 tree for latest blobs
-- Ships with latest webview overlaid
-- Ships with Brave and debloated G-Apps
-- Source changelog for all the features
-- Forgot to fix dt2w here
+## Corvus Update (13/04/12)
+<br>
 
-## Arcana Update (6.0 09/05/22)
+- Ships with the PSSG-performance (My new performance based kernel).<br>
+- Upstreamed to common 12 tree for latest blobs<br>
+- Ships with latest webview overlaid.<br>
+- Ships with Brave or debloated G-Apps in the gapps version<br>
+- Fixed DT2W.<br>
+- For dt2s please give pixel launcher accessibility acess.<br>
 
-- So **many source bugs**
-- April patch 
-- 12.L
-- Upstreamed to common 12 tree for latest blobs
-- Ships with Brave and debloated G-Apps
-- Source changelog for all the features
-- Lot's of sepolicy for other stuff
-- Added network meter debug tools.
-- Fixed DT2W here (This time for real).
-- **A11 LIKE QS WOHOOO**
+## Arcana Update (6.0 13/04/22)
+<br>
+
+- April patch<br> 
+- 12.L<br>
+- Upstreamed to common 12 tree for latest blobs.<br>
+- Ships with Brave or debloated G-Apps in the gapps version<br>
+- Lot's of sepolicy for other stuff.<br>
+- Added network meter debug tools.<br>
+- Fixed DT2W here.<br>
+- **A11 LIKE QS WOHOOO**<br>
+- A12 QS Build too , for people who pmed me 69 times (Be happy!).<br>
+- For dt2s please give pixel launcher accessibility acess.<br>
+- Fixed broken play store protect certification 
 
 ## Havoc Update (4.15)
+<br>
 
-- Shipped with MIUI vendor.
-- OTA pushed
-- Added vendor blobs and fod fixes to lts ota releases
+- Shipped with MIUI vendor.<br>
+- OTA pushed.<br>
+- Added vendor blobs and fod fixes to lts ota releases.<br>
+
+## Kernel Types 
+
+<br>
+PSSG is the name of kernel I provide. It comes in 3 variants:
+<br>
+
+- Battery : Optimized for battery.<br>
+- Performance : Optimized for performance.<br>
+- Performance oc : Performance Kernel with screen OC to 81 HZ ( Not really recommened for long usage)<br>
 
 ## Donations
-
-**Paypal** : Paypal.me/irongfly<br>
+**Paypal** : Paypal.me/irongfly
 **UPI** : sukeerat@ybl<br>
-
+<br>
 **Thanks for checking out my work**
