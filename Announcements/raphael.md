@@ -1,3 +1,13 @@
+## Arcana EOL Update (GALEFORCE 24/04/22)
+<br>
+
+- Upstreamed vendor blobs
+- Made radio calls more efficient
+- Dumped power mangement blobs
+- Debloated all camera apps so you can flash the ones you like
+- Upstreamed brave browser
+- Debloated all the tracking crap even more
+
 
 ## Corvus Update (13/04/12)
 <br>
