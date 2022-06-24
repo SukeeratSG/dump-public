@@ -11,15 +11,19 @@
 - Made boot faster
 - Made fod slighty faster ( credit to revamp)
 
-## Arcana EOL Update (GALEFORCE 24/04/22)
+## Arcana/RiceDroid Update (Duhat 23/06/22)
 <br>
 
-- Upstreamed vendor blobs
-- Made radio calls more efficient
-- Dumped power mangement blobs
-- Debloated all camera apps so you can flash the ones you like
-- Upstreamed brave browser
-- Debloated all the tracking crap even more
+- Ships with the PSSG-battery V3.0.
+- Tweaked kernel to give more battery.
+- Reduced Jitter Times
+- Ships with PhotonCam (Small anx)
+- Debloated old vendor libs
+- Debloated even more gapps libs for perfomance and battery
+- Updated brave to the latest version.
+- Made boot faster
+- Made fod slighty faster ( credit to revamp)
+- This is rom made by community demand , so please donate if you feel like I have done a good job 
 
 ## Havoc Update (4.15)
 <br>
